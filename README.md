@@ -132,11 +132,7 @@ visiontrack/
 
 ---
 
-## 📸 Demo
 
-> Record a short GIF of the webcam detecting people/objects and add it here — this is your portfolio's best asset!
-
----
 
 ## 📄 License
 
