@@ -1,3 +1,5 @@
+![Demo](demo.gif)
+
 # 👁️ VisionTrack — Real-Time Object Detection & Tracking
 
 > YOLOv8 + DeepSORT · FastAPI · React · WebSockets
